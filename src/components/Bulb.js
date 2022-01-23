@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import 'F:/bulb/src/App.css';
+// import './App.css';
 
 function Bulb() {
     const [style, setStyle] = useState(false);

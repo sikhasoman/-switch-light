@@ -1,6 +1,6 @@
 import React from "react";
-import 'F:/bulb/src/App.css';
-import Bulb from 'F:/bulb/src/components/Bulb.js';
+import './App.css';
+import Bulb from './components/Bulb.js';
 
 function App() {
   
@@ -9,6 +9,7 @@ function App() {
     <div className="row">
 	  <Bulb />
     <Bulb />
+    
     </div>
     </div>
   );
