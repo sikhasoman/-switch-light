@@ -1,8 +1,4 @@
-.App {
-width : 50%;
-height:400%;
-border: 1px solid black;
-}
+
 .cont {
 width: 100px;
 height: 100px;
@@ -30,12 +26,12 @@ border-radius: 50px;
   background-color: rgb(255, 198, 43);
 }
 .row{
-/* border: 2px solid black; */
+
   display:flex; 
   flex-direction:row;
 }
 .box{
-  /* margin-left: 20%; */
+  
   width: 40%;
   height: 50%;
   align-content: center;
